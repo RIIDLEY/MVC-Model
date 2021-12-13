@@ -1,5 +1,5 @@
 <?php
-$dsn = "pgsql:host=aquabdd; dbname=etudiants";
+$dsn = "mysql:dbname=moteur-recherche;host=localhost";
 $login = "11813410";
 $mdp = "060893655DF";
 ?>
